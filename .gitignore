@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+out/
+*.class
+
+# Old Git repositories kept as backups
+.git-old-*/
+
+# OS files
+.DS_Store
+Thumbs.db
